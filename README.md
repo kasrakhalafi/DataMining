@@ -11,5 +11,6 @@ In first part, K-Means algorithm was used for compressing a picture. Then with e
 In second part of implementation, DBSCAN method was used to cluster 'COVID-19' patients on map using Folium library.
 
 # [Home Work 3](https://github.com/kasrakhalafi/DataMining/tree/master/HW3) 
+Writing part of the homework 3 contained some questions about Gradient Tree Boosting, Decision Tree and ensemble classifier. In the implemetation part, Decison Tree method was used on a heart dataset to classify and predict heart diseases. In the next part, Weka was used for the mentioned implementation homework part. In the last part, text classification with Naïve Bayes was implemented on a review dataset from amazon.
 
 # [Final Poject of Data Mining](https://github.com/kasrakhalafi/DataMining/tree/master/Final_Project) 
